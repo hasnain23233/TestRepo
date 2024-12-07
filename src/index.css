@@ -1,0 +1,19 @@
+.FetchDataContainer{
+  border: 2px solid green;
+}
+.list{
+  background-color: blue;
+  color: white;
+  padding: 12px;
+  border: 1px solid white;
+  margin: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.kaggle{
+  border: 3px solid white;
+  border-radius: 12px;
+  padding: 12px;
+  background-color: lightgray;
+  color: black;
+}
